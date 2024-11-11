@@ -36,3 +36,4 @@ person = {'Name' : 'Sarah Smith',
 print (person.get('Name'), 'is', person.get('Age'), 'years old.')
 
 #Videre eks med demo: contacts.py
+#Annet eks i space.py
